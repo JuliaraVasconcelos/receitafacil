@@ -1,23 +1,23 @@
-#App Receita Fácil
+# App Receita Fácil
 
 Project developed during Sujeito Programador workshop
 
 Project made in React Native
 
-##Features
+## Features
 - Recipes List consuming an internal api
 - Search bar
 - Favorite option
 - Favorite List
 - Video Modal for the recipe
 
-#-----------------
+# -----------------
 
-#App Receita Fácil
+# App Receita Fácil
 
 Projeto desenvolvido durante o workshop do Sujeito Programador, feito em React Native.
 
-##Features
+## Features
 - Lista de receitas consumindo uma api interna
 - Barra de pesquisa
 - Opção de favoritar receita
